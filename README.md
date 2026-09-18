@@ -129,6 +129,7 @@ With more time, I would test the models across multiple training runs and compar
 ## Repository Contents
 
 - `Final_Project_Option1_CNN_MNIST.ipynb` — completed notebook with all code, outputs, confusion matrices, and written interpretations
+- `Final_Project_Option1_CNN_MNIST.html` — static HTML export of the completed notebook with saved outputs
 - `README.md` — summary of the project and main results
 
 ---
